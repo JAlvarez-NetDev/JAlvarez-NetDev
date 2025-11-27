@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">José Álvarez Domínguez</h1>
-<h3 align="center">Junior SysAdmin | Network Security & Automation</h3>
+<h3 align="center">SysAdmin | Network Security & Automation</h3>
 
 <div align="center">
 
-I am an IT Technician in training (SMR) combining maturity and work ethic with modern tech skills.
+I am an IT Technician in training (SMR)
 I specialize in <b>Linux Systems</b>, <b>Network Security</b>, and <b>Python Automation</b>.
 <br>
 I focus on deep troubleshooting and infrastructure reliability from day one.
@@ -31,32 +31,32 @@ I focus on deep troubleshooting and infrastructure reliability from day one.
 
 ---
 
-### 📂 Lab Projects (Learning by Doing)
+### Lab Projects (Learning by Doing)
 
-#### 📡 [Industrial IoT Telemetry System]
+#### [Industrial IoT Telemetry System]
 End-to-end IoT solution. Sensors capture data via **ESP32**, transmitted over MQTT to a hardened **Raspberry Pi** server running a Dockerized ingestion pipeline.
 * *Skills:* IoT Protocols, Linux Hardening, Python.
 
-#### 🛡️ [Network Defense Lab]
+#### [Network Defense Lab]
 Setup including traffic monitoring and intrusion detection experiments.
 * *Tools:* **Suricata** for alert generation and **Nmap** for vulnerability scanning on my local network.
 
-#### ⚡ [Python Network Automation]
+#### [Python Network Automation]
 Scripts using **Netmiko** to interact with Cisco devices. Automates VLAN creation, config backups, and connectivity checks.
 * *Goal:* Moving from manual CLI typing to "Infrastructure as Code".
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
-* **SMR (Sistemas Microinformáticos y Redes)** - Vocational Training (In Progress)
+* **SMR (Sistemas Microinformáticos y Redes)** - Technician in Microcomputer Systems and Networks. Studying.
 * **Cisco CCNA** - Studying (Target: 2026)
 * **Linux Essentials** - LPI Certified
 * **Google Cybersecurity Certificate** - Certified
 
 ---
 
-### 📬 Ready to Work
+### Ready to Work
 
 Looking for roles in **NOC (Network Operations Center)**, **IT Support**, or **Junior SysAdmin**.
 I bring a security-first mindset and the ability to troubleshoot complex issues using CLI tools.
