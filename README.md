@@ -7,7 +7,7 @@
 I am an IT Technician in training (SMR) combining maturity and work ethic with modern tech skills.
 I specialize in <b>Linux Systems</b>, <b>Network Security</b>, and <b>Python Automation</b>.
 <br>
-Unlike typical juniors, I focus on deep troubleshooting and infrastructure reliability from day one.
+I focus on deep troubleshooting and infrastructure reliability from day one.
 <br><br>
 <i>"I don't just configure networks; I analyze, secure, and automate them."</i>
 
@@ -15,7 +15,7 @@ Unlike typical juniors, I focus on deep troubleshooting and infrastructure relia
 
 ---
 
-### 🛠️ The Arsenal (Technical Stack)
+### Technical Stack
 
 | Domain | Proficiency & Tools |
 | :--- | :--- |
