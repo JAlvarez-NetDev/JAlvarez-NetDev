@@ -7,7 +7,6 @@
 
 <div align="center">
 
-I am an IT Technician in training (SMR)
 I specialize in <b>Linux Systems</b>, <b>Network Security</b>, and <b>Python Automation</b>.
 <br>
 I focus on deep troubleshooting and infrastructure reliability from day one.
