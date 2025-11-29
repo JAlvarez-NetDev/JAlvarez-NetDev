@@ -32,19 +32,19 @@ I focus on deep troubleshooting and infrastructure reliability from day one.
 
 ### Lab Projects (Learning by Doing)
 
-#### [Industrial IoT Telemetry System]
+#### [📂 Sovereign Vault (3-2-1 Backup Architecture)](https://github.com/JAlvarez-NetDev/sovereign-vault)
+**Status:** *Completed & Documented*
+Automated, encrypted hybrid backup infrastructure implementing the 3-2-1 strategy.
+* **Architecture:** Workstation -> **Syncthing** (Local Sync) -> **Raspberry Pi 4** -> **Rclone Crypt** -> **Google Drive**.
+* **Tech Stack:** Docker, Bash Scripting, Linux Cron, Zero-Knowledge Encryption.
+
+#### [🏭 Industrial IoT Telemetry System]
 End-to-end IoT solution. Sensors capture data via **ESP32**, transmitted over MQTT to a hardened **Raspberry Pi** server running a Dockerized ingestion pipeline.
-* *Skills:* IoT Protocols, Linux Hardening, Python.
+* **Skills:** IoT Protocols, Linux Hardening, Python.
 
-#### [Network Defense Lab]
-Setup including traffic monitoring and intrusion detection experiments.
-* *Tools:* **Suricata** for alert generation and **Nmap** for vulnerability scanning on my local network.
-
-#### [Python Network Automation]
+#### [🐍 Python Network Automation]
 Scripts using **Netmiko** to interact with Cisco devices. Automates VLAN creation, config backups, and connectivity checks.
-* *Goal:* Moving from manual CLI typing to "Infrastructure as Code".
-
----
+* **Goal:** Moving from manual CLI typing to "Infrastructure as Code".
 
 ### Education & Certifications
 
