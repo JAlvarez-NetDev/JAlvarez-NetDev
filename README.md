@@ -19,24 +19,24 @@ I focus on deep troubleshooting and infrastructure reliability from day one.
 
 ### Technical Stack
 
-| Domain | Proficiency & Tools |
-| :--- | :--- |
+| Domain | Proficiency & Tools                                                                                    |
+| :--- |:-------------------------------------------------------------------------------------------------------|
 | **Network Analysis** | **Wireshark** (Deep Packet Inspection), **Tcpdump** (CLI Analysis), **Nmap** (Network Discovery/Audit) |
-| **Network Defense** | **Suricata** (IDS/IPS Basics), ACLs, Port Security, Network Hardening |
-| **Core Networking** | **Cisco IOS** (Routing & Switching), VLANs, STP, Subnetting, NAT/PAT |
-| **Automation** | **Python** (Netmiko, Requests), Bash Scripting, Automating routine admin tasks |
-| **Infrastructure** | **Linux** (Ubuntu Server, RHEL-based), **Docker** (Containerization), Raspberry Pi Clusters |
-| **Dev Tools** | **PyCharm** (Professional IDE), VS Code, Jupyter Notebooks, Git/GitHub |
+| **Network Defense** | **Suricata** (IDS/IPS Basics), ACLs, Port Security, Network Hardening                                  |
+| **Core Networking** | **Cisco IOS** (Routing & Switching), VLANs, STP, Subnetting, NAT/PAT                                   |
+| **Automation** | **Python** (Netmiko, Requests), Bash Scripting, Automating routine admin tasks                         |
+| **Infrastructure** | **Linux** (Ubuntu Server, RHEL-based), **Docker** (Containerization), Raspberry Pi Clusters            |
+| **Dev Tools** | **PyCharm** (Professional IDE), VS Code, Jupyter Notebooks, Git/GitHub, Docker                         |
 
 ---
 
 ### Lab Projects (Learning by Doing)
 
-#### [📂 Sovereign Vault (3-2-1 Backup Architecture)](https://github.com/JAlvarez-NetDev/sovereign-vault)
+#### [🛡️ Sovereign Vault (3-2-1 Backup Architecture)](https://github.com/JAlvarez-NetDev/sovereign-vault)
 **Status:** *Completed & Documented*
-Automated, encrypted hybrid backup infrastructure implementing the 3-2-1 strategy.
-* **Architecture:** Workstation -> **Syncthing** (Local Sync) -> **Raspberry Pi 4** -> **Rclone Crypt** -> **Google Drive**.
-* **Tech Stack:** Docker, Bash Scripting, Linux Cron, Zero-Knowledge Encryption.
+Automated, encrypted hybrid backup infrastructure implementing the **3-2-1 strategy** (Home Lab).
+* **Architecture:** Windows 11 Workstation -> **Syncthing** (Local Sync) -> **Raspberry Pi 4** -> **Rclone Crypt** -> **Google Drive**.
+* **Tech Stack:** Docker Compose, Bash Automation, Linux Cron, Zero-Knowledge Encryption.
 
 #### [🏭 Industrial IoT Telemetry System]
 End-to-end IoT solution. Sensors capture data via **ESP32**, transmitted over MQTT to a hardened **Raspberry Pi** server running a Dockerized ingestion pipeline.
@@ -46,12 +46,24 @@ End-to-end IoT solution. Sensors capture data via **ESP32**, transmitted over MQ
 Scripts using **Netmiko** to interact with Cisco devices. Automates VLAN creation, config backups, and connectivity checks.
 * **Goal:** Moving from manual CLI typing to "Infrastructure as Code".
 
+---
+
 ### Education & Certifications
 
-* **SMR (Sistemas Microinformáticos y Redes)** - Technician in Microcomputer Systems and Networks. Studying.
-* **Cisco CCNA** - Studying (Target: 2026)
-* **Linux Essentials** - LPI Certified
-* **Google Cybersecurity Certificate** - Certified
+**Formal Education:**
+* **SMR (Sistemas Microinformáticos y Redes)** - Technician in Microcomputer Systems and Networks.*Studying*
+
+**Professional Certifications:**
+1.  [**Google Cybersecurity Professional Certificate V2**](https://www.credly.com/badges/2c7f91bf-d841-4cfb-af67-e0ef3cd90039/public_url) - Google
+2.  [**CCNA: Introduction to Networks**](https://www.credly.com/badges/14b37246-03e7-416f-912f-5f5c7f52bf2b/public_url) - Cisco
+3.  [**CCNA: Switching, Routing, and Wireless Essentials**](https://www.credly.com/badges/4ec1c7e6-e983-4cdf-aba6-a605b073d301/public_url) - Cisco
+4.  [**Linux Essentials**](https://www.credly.com/badges/b92a8db2-d296-4634-9416-7d4ba3aaebd5/public_url) - LPI / Cisco
+5.  [**Junior Cybersecurity Analyst Career Path**](https://www.credly.com/badges/b107d0a8-c264-4280-8e3e-b22170cf1d4c/public_url) - Cisco
+6.  [**Network Technician Career Path**](https://www.credly.com/badges/1198a393-60c7-4fd5-b791-edd71df37828/public_url) - Cisco
+
+**Languages:**
+* **Spanish:** Native
+* **English:** B1 (Intermediate)
 
 ---
 
