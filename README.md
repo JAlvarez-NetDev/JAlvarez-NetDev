@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">José Álvarez Domínguez</h1>
-<h3 align="center">SysAdmin | Network Security & Automation</h3>
+<h3 align="center">IT Systems & Network Technician | Python Automation</h3>
 
 <div align="center">
 
-I specialize in <b>Linux Systems</b>, <b>Network Security</b>, and <b>Python Automation</b>.
+Focused on <b>Linux Systems</b>, <b>Network Security</b>, and <b>Python Automation</b>.
 <br>
-I focus on deep troubleshooting and infrastructure reliability from day one.
+I apply a <b>DevOps mindset</b> to IT operations, combining deep troubleshooting with infrastructure reliability.
 <br><br>
 <i>"I don't just configure networks; I analyze, secure, and automate them."</i>
 
@@ -19,14 +19,14 @@ I focus on deep troubleshooting and infrastructure reliability from day one.
 
 ### Technical Stack
 
-| Domain | Proficiency & Tools                                                                                    |
+| Domain | Proficiency & Tools                                                                                     |
 | :--- |:-------------------------------------------------------------------------------------------------------|
 | **Network Analysis** | **Wireshark** (Deep Packet Inspection), **Tcpdump** (CLI Analysis), **Nmap** (Network Discovery/Audit) |
 | **Network Defense** | **Suricata** (IDS/IPS Basics), ACLs, Port Security, Network Hardening                                  |
 | **Core Networking** | **Cisco IOS** (Routing & Switching), VLANs, STP, Subnetting, NAT/PAT                                   |
 | **Automation** | **Python** (Netmiko, Requests), Bash Scripting, Automating routine admin tasks                         |
 | **Infrastructure** | **Linux** (Ubuntu Server, RHEL-based), **Docker** (Containerization), Raspberry Pi Clusters            |
-| **Dev Tools** | **PyCharm** (Professional IDE), VS Code, Jupyter Notebooks, Git/GitHub, Docker                         |
+| **Dev Tools** | **PyCharm** (Professional IDE), VS Code, Jupyter Notebooks, Git/GitHub                                 |
 
 ---
 
@@ -37,6 +37,12 @@ I focus on deep troubleshooting and infrastructure reliability from day one.
 Automated, encrypted hybrid backup infrastructure implementing the **3-2-1 strategy** (Home Lab).
 * **Architecture:** Windows 11 Workstation -> **Syncthing** (Local Sync) -> **Raspberry Pi 4** -> **Rclone Crypt** -> **Google Drive**.
 * **Tech Stack:** Docker Compose, Bash Automation, Linux Cron, Zero-Knowledge Encryption.
+
+#### [🔒 Privacy Shield (DNS Sovereignty & Ad-Blocking)](https://github.com/JAlvarez-NetDev/privacy-shield)
+**Status:** *Completed & Documented*
+Enterprise-grade DNS infrastructure replacing ISP tracking with a private, recursive resolver. Enforces **Data Sovereignty** and network-wide security against telemetry and ads.
+* **Architecture:** **Pi-hole** (Network-wide Sinkhole) <-> **Unbound** (Recursive Resolver + DNSSEC) <-> **Root Servers**.
+* **Tech Stack:** Docker Compose, Linux Networking (Static IPs), Security Hardening, DNS/DNSSEC protocols.
 
 #### [🏭 Industrial IoT Telemetry System]
 End-to-end IoT solution. Sensors capture data via **ESP32**, transmitted over MQTT to a hardened **Raspberry Pi** server running a Dockerized ingestion pipeline.
@@ -51,7 +57,7 @@ Scripts using **Netmiko** to interact with Cisco devices. Automates VLAN creatio
 ### Education & Certifications
 
 **Formal Education:**
-* **SMR (Sistemas Microinformáticos y Redes)** - Technician in Microcomputer Systems and Networks.*Studying*
+* **SMR (Sistemas Microinformáticos y Redes)** - Technician in Microcomputer Systems and Networks. *Studying*
 
 **Professional Certifications:**
 1.  [**Google Cybersecurity Professional Certificate V2**](https://www.credly.com/badges/2c7f91bf-d841-4cfb-af67-e0ef3cd90039/public_url) - Google
