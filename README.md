@@ -25,7 +25,7 @@ I apply a <b>DevOps mindset</b> to IT operations, combining deep troubleshooting
 | **Network Defense** | **Suricata** (IDS/IPS Basics), ACLs, Port Security, Network Hardening                                  |
 | **Core Networking** | **Cisco IOS** (Routing & Switching), VLANs, STP, Subnetting, NAT/PAT                                   |
 | **Automation** | **Python** (Netmiko, Requests), Bash Scripting, Automating routine admin tasks                         |
-| **Infrastructure** | **Linux** (Ubuntu Server, RHEL-based), **Docker** (Containerization), Raspberry Pi Clusters            |
+| **Infrastructure** | **Linux** (Ubuntu Desktop/Server), **Docker** (Containerization), Raspberry Pi Clusters, ESP32           |
 | **Dev Tools** | **PyCharm** (Professional IDE), VS Code, Jupyter Notebook, Git/GitHub                                 |        |
 
 ---
