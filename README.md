@@ -12,7 +12,7 @@
 I design, secure, and automate IT infrastructures using **Linux**, **Python**, and advanced networking tools.  
 Experienced in building resilient, monitored, and automated systems.
 
-<b>GitHub:</b> <a href="https://github.com/alvarezdevnet">alvarezdevnet</a> | <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jadomin/">José Álvarez</a> | <b>Email:</b> r3dempleo@gmail.com
+<b>GitHub:</b> <a href="https://github.com/alvarezdevnet">alvarezdevnet</a> | <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jadomin/">José Álvarez</a> |
 </div>
 
 ---
@@ -51,9 +51,10 @@ Experienced in building resilient, monitored, and automated systems.
 
 ### Education & Certifications
 
-**Formal Education:** **SMR** (Sistemas Microinformáticos y Redes) - Technician in Microcomputer Systems and Networks  
+**Formal Education:** 
+**SMR** (Sistemas Microinformáticos y Redes) - Technician in Microcomputer Systems and Networks  
   **EU EQF Level 4**
-  USA: **Vocational/Technical High School Diploma equivalent**) - In Progress
+  **Vocational/Technical High School Diploma equivalent** - In Progress
 
 **Certifications:** 
 - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/2c7f91bf-d841-4cfb-af67-e0ef3cd90039/public_url)  
@@ -67,7 +68,7 @@ Experienced in building resilient, monitored, and automated systems.
 
 ---
 
-### 🚀 Ready to Work
+###  Ready to Work
 
 Looking for roles in **NOC**, **IT Support**, or **Junior SysAdmin**.  
 I bring a **security-first mindset**, strong problem-solving skills, and the ability to **automate and secure IT infrastructure** from day one.
