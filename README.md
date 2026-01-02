@@ -31,11 +31,11 @@ Focused on building resilient, monitored, and production-ready systems.
 
 ### 💻 Technical Stack
 
-**🌐 Network & Security:** Cisco IOS-XE, Wireshark, Nmap, Network Hardening, DNS Security (Unbound)  
-**⚙️ Automation:** Python (Netmiko, Requests, Dotenv), Bash Scripting, Git Workflow  
-**🖥️ Infrastructure:** Linux (Ubuntu 24.04 LTS), Docker & Docker Compose, Raspberry Pi (userver)  
-**📊 Observability:** Prometheus, Grafana, Node Exporter  
-**🛠️ Dev Tools:** PyCharm Professional, Anaconda, Jupyter Notebook
+- **Network & Security:** Cisco IOS-XE, Wireshark, Nmap, Network Hardening, DNS Security. (Unbound)  
+- **Automation:** Python (Netmiko, Requests, Dotenv), Bash Scripting, Git Workflow.  
+- **Infrastructure:** Linux (Ubuntu 24.04 LTS), Docker & Docker Compose, Raspberry Pi, ESP32.
+- **Observability:** Prometheus, Grafana, Node Exporter, MQTT, Node-red, InfluxDB.  
+- **Dev Tools:** PyCharm Professional, Anaconda, Jupyter Notebook, VsCode.
 
 ---
 
@@ -59,4 +59,30 @@ Focused on building resilient, monitored, and production-ready systems.
 - Automated hybrid backup infrastructure with **3-2-1 strategy**: Local → Pi Storage → Encrypted Cloud Copy.
 - **Impact:** Ensured data integrity and zero-knowledge encryption for critical files.
 
-#### [Privacy Shield (DNS Sovereignty)](
+#### [Privacy Shield (DNS Sovereignty)](https://github.com/alvarezdevnet/privacy-shield)
+**Status:** *Completed & Documented*
+- Private recursive DNS resolver (Pi-hole + Unbound) to eliminate ISP tracking and ad-telemetry.
+- **Impact:** Network-wide security hardening and DNSSEC validation.
+
+---
+
+### Education & Certifications
+
+**Formal Education:** **SMR** (Sistemas Microinformáticos y Redes) - **EU EQF Level 4** (In Progress)
+
+**Certifications:** 
+- [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/2c7f91bf-d841-4cfb-af67-e0ef3cd90039/public_url)  
+- [CCNA: Introduction to Networks](https://www.credly.com/badges/14b37246-03e7-416f-912f-5f5c7f52bf2b/public_url)  
+- [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/4ec1c7e6-e983-4cdf-aba6-a605b073d301/public_url)  
+- [Linux Essentials (LPI / Cisco)](https://www.credly.com/badges/b92a8db2-d296-4634-9416-7d4ba3aaebd5/public_url)  
+- [Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/b107d0a8-c264-4280-8e3e-b22170cf1d4c/public_url)  
+- [Network Technician Career Path](https://www.credly.com/badges/1198a393-60c7-4fd5-b791-edd71df37828/public_url)
+
+**Languages:** Spanish (Native), English (B1 Intermediate - Technical proficiency)
+
+---
+
+### 🚀 Career Objective
+
+Looking for roles in **NOC**, **Junior SysAdmin**, or **IT Operations**.  
+I bring a **security-first mindset** and the ability to **automate repetitive tasks** to improve operational efficiency.
